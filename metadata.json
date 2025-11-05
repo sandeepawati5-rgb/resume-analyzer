@@ -1,0 +1,5 @@
+{
+  "name": "Resume Genius Pro",
+  "description": "An AI-powered web application to help job seekers analyze their resumes against Applicant Tracking System (ATS) standards and receive instant, actionable feedback to improve their job applications.",
+  "requestFramePermissions": []
+}
